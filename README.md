@@ -1,1 +1,2 @@
-# practice1
+# Test project
+## Intro to conflict in git
